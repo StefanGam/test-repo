@@ -1,13 +1,18 @@
-<table>
-  <tr><td><strong>Name of QuantLet:</strong></td><td>'SPMhisto_diff_binwidth'</td></tr>
-  <tr><td><strong>Published in:</strong></td><td>'Nonparametric and Semiparametric Models'</td></tr>
-  <tr><td><strong>Description:</strong></td><td>'Illustrates four histograms for the stock returns data with different bin-widths .'</td></tr>
-  <tr><td><strong>Keywords:</strong></td><td>'plot, graphical representation, data visualization, histogram, financial, returns, asset'</td></tr>
-  <tr><td><strong>See also:</strong></td><td>'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,</td></tr>
-  <tr><td><strong>Author:</strong></td><td>'Ștefan Găman'</td></tr>
-  <tr><td><strong>Submitted:</strong></td><td>'27 May 2024'</td></tr>
-  <tr><td><strong>Datafiles:</strong></td><td>'stockres.dat'</td></tr>
-</table>
+**Name of QuantLet**: `'SPMhisto_diff_binwidth'`
 
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI7Z42XVPUXP2VT5LB7DHFTVXI)
+**Published in**: `'Nonparametric and Semiparametric Models'`
+
+**Description**: `'Illustrates four histograms for the stock returns data with different bin-widths .'`
+
+**Keywords**: `'plot, graphical representation, data visualization, histogram, financial, returns, asset'`
+
+**See also**: `'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,`
+
+**Author**: `'Ștefan Găman'`
+
+**Submitted**: `'27 May 2024'`
+
+**Datafiles**: `'stockres.dat'`
+
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI736G6IECNUJJ2R4KHDHFTWEY)
 
