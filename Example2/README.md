@@ -8,5 +8,5 @@
   <tr><td><strong>Datafiles:</strong></td><td>'stockres.dat'</td></tr>
 </table>
 
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI72OPT6OOEGOG6K7HSDHFTTHI)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI754JFXN2LLOJJ5TDJLHFTVGW)
 
