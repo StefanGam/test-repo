@@ -8,5 +8,5 @@
   <tr><td><strong>Datafiles:</strong></td><td>'stockres.dat'</td></tr>
 </table>
 
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI74FW7YTZN7PKUWKG7DHFTVG2)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI7YDFAXHY7EP4EWYQTLHFTVSQ)
 
