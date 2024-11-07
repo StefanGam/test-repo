@@ -1,9 +1,4 @@
-# Unnamed Project
-
-![Logo](quantlet-e072461f.png)  <!-- Replace link_to_logo_image with the actual URL of the logo -->
-
 <table>
-  <tr><td><strong>Name of Quantlet:</strong></td><td>Unnamed Project</td></tr>
   <tr><td><strong>Published in:</strong></td><td>'Nonparametric and Semiparametric Models'</td></tr>
   <tr><td><strong>Description:</strong></td><td>'Illustrates four histograms for the stock returns data with different bin-widths .'</td></tr>
   <tr><td><strong>Keywords:</strong></td><td>'plot, graphical representation, data visualization, histogram, financial, returns, asset'</td></tr>
@@ -13,6 +8,5 @@
   <tr><td><strong>Datafiles:</strong></td><td>'stockres.dat'</td></tr>
 </table>
 
-## Histograms
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI74H4SZLCGMBTFFHWH3HFTSIE)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI72OPT6OOEGOG6K7HSDHFTTHI)
 
