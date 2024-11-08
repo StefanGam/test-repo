@@ -1,4 +1,5 @@
-```
+
+<pre style="background-color: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; color: #0366d6; font-family: monospace; padding: 16px;">
 Name of QuantLet: 'SPMhisto_diff_binwidth'
 Published in: 'Nonparametric and Semiparametric Models'
 Description: 'Illustrates four histograms for the stock returns data with different bin-widths .'
@@ -7,6 +8,6 @@ See also: 'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHis
 Author: 'Ștefan Găman'
 Submitted: '27 May 2024'
 Datafiles: 'stockres.dat'
-```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI7ZBCLRCFQU4WK4YRRLHFWWYC)
+</pre>
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI7Y7QXEMJKSL6GN5W2THFWXIY)
 
