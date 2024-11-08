@@ -9,5 +9,5 @@
 <span style='color: #0366d6;'>Submitted: '27 May 2024'</span><br>
 <span style='color: #0366d6;'>Datafiles: 'stockres.dat'</span><br>
 </div>
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI73GB4IXWQRO4NAR6UDHFWX2W)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI7ZE6YRXYHJ7YGDERVTHFWYCA)
 
