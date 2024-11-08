@@ -1,4 +1,4 @@
-```
+<pre style="color: #0366d6;">
 Name of QuantLet: ''SPMhisto_diff_origin''
 Published in: ''Nonparametric and Semiparametric Models''
 Description: ''Illustrates four histograms for the stock returns data with different origins.''
@@ -7,6 +7,6 @@ See also: ''SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHi
 Author: ''Ștefan Găman''
 Submitted: ''27 May 2024''
 Datafiles: ''stockres.dat''
-```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI77Y44TV7WCG2EGPGZDHFWUWW)
+</pre>
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI7YHVVJ7355GZMNJK4LHFWWFW)
 
