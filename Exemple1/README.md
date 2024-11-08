@@ -1,10 +1,6 @@
 
-<div style="position: relative; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa; padding: 16px;">
-    <button onclick="navigator.clipboard.writeText(document.getElementById('metadata-block').innerText)"
-            style="position: absolute; top: 8px; right: 8px; background: #0074D9; color: white; border: none; border-radius: 4px; padding: 4px 8px; cursor: pointer;">
-        Copy
-    </button>
-    <pre id="metadata-block" style="color: #0056b3; font-family: monospace;">
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa; padding: 16px; font-family: monospace;">
+    <pre style="color: #0366d6; font-size: 14px; margin: 0;">
 Name of QuantLet: ''SPMhisto_diff_origin''
 Published in: ''Nonparametric and Semiparametric Models''
 Description: ''Illustrates four histograms for the stock returns data with different origins.''
@@ -16,5 +12,5 @@ Datafiles: ''stockres.dat''
 
     </pre>
 </div>
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI75TTSSVYOX743AFFMTHFTWRS)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI764REPTBI2SP3YPG3DHFWS3A)
 
