@@ -1,12 +1,16 @@
-<div style="color: #0366d6; font-family: monospace; font-size: 16px;">
-Name of QuantLet: 'SPMhisto_diff_origin'<br>
-Published in: 'Nonparametric and Semiparametric Models'<br>
-Description: 'Illustrates four histograms for the stock returns data with different origins.'<br>
-Keywords: 'plot, graphical representation, data visualization, histogram, financial, returns, asset'<br>
-See also: 'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,SPMhistobias2'<br>
-Author: 'Ștefan Găman'<br>
-Submitted: '27 May 2024'<br>
-Datafiles: 'stockres.dat'<br>
+
+<div style="background-color: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; font-family: Arial, sans-serif; color: #0366d6;">
+<pre style="margin: 0; font-size: 14px; font-weight: bold;">
+Name of QuantLet: 'SPMhisto_diff_origin'
+Published in: 'Nonparametric and Semiparametric Models'
+Description: 'Illustrates four histograms for the stock returns data with different origins.'
+Keywords: 'plot, graphical representation, data visualization, histogram, financial, returns, asset'
+See also: 'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,SPMhistobias2'
+Author: 'Ștefan Găman'
+Submitted: '27 May 2024'
+Datafiles: 'stockres.dat'
+
+</pre>
 </div>
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI72Y4LIM7NF2Q7HJOD3HFWT56)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI75KYWZ7LCEQYCSA7S3HFWUFS)
 
