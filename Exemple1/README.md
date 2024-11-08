@@ -8,5 +8,5 @@ Author: 'Ștefan Găman'<br>
 Submitted: '27 May 2024'<br>
 Datafiles: 'stockres.dat'<br>
 ```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI77KP6AK2F4YK76OGWLHFWYZO)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI72VLOFR74ASMPIZANDHFWY3W)
 
