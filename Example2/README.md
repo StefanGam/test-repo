@@ -16,5 +16,7 @@ Submitted: '27 May 2024'
 Datafiles: 'stockres.dat'
 
 ```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI74RTVTLGENL4AZUUY3HFWZLQ)
+<div align="center">
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI76JWSJYRNXCPVWJZ3THFWZR6" alt="Histogram" />
+</div>
 
