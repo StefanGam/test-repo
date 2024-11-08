@@ -1,4 +1,4 @@
-</pre>
+<pre style="color: #0366d6;">
 Name of QuantLet: ''SPMhisto_diff_origin''
 Published in: ''Nonparametric and Semiparametric Models''
 Description: ''Illustrates four histograms for the stock returns data with different origins.''
@@ -8,5 +8,5 @@ Author: ''Ștefan Găman''
 Submitted: ''27 May 2024''
 Datafiles: ''stockres.dat''
 </pre>
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI74KHLPMGGK4OQ5UEV3HFWWLM)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI77UY2AEQ7OEQZQQKTDHFWWQY)
 
