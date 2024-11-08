@@ -9,5 +9,5 @@
 <span style='color: #0366d6;'>Submitted: '27 May 2024'</span><br>
 <span style='color: #0366d6;'>Datafiles: 'stockres.dat'</span><br>
 </div>
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI72LNYDO57DO2FDQGTLHFWX22)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI73SOHEQJ4DBDGY4AULHFWYCE)
 
