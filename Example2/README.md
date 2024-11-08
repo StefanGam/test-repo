@@ -8,5 +8,5 @@ Author: 'Ștefan Găman'<br>
 Submitted: '27 May 2024'<br>
 Datafiles: 'stockres.dat'<br>
 ```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI72BUNNOXCSQU6EYLQLHFWYZI)
+![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI73O5H27S42DU2IWOUDHFWY3S)
 
