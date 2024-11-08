@@ -16,5 +16,7 @@ Submitted: '27 May 2024'
 Datafiles: 'stockres.dat'
 
 ```
-![Histogram](https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI72J6OTCKTOLERDZCELHFWZLU)
+<div align="center">
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI7ZRHBW47X5SFNVCD7DHFWZSC" alt="Histogram" />
+</div>
 
