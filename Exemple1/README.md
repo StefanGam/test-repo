@@ -17,6 +17,6 @@ Datafiles: 'stockres.dat'
 
 ```
 <div align="center">
-<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI7ZRHBW47X5SFNVCD7DHFWZSC" alt="Histogram" />
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png?token=BE4CI77H3DJH5FG2K3GQCB3HGT4PC" alt="Histogram" />
 </div>
 
