@@ -17,6 +17,6 @@ Datafiles: 'stockres.dat'
 
 ```
 <div align="center">
-<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI76JWSJYRNXCPVWJZ3THFWZR6" alt="Histogram" />
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png?token=BE4CI74UEXMM2I4XRLDB5S3HGT4O6" alt="Histogram" />
 </div>
 
