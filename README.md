@@ -7,10 +7,10 @@
 ```
 ```
 <div align="center">
-<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Quantlet_readme.png" alt="Histogram" />
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Quantlet_readme.png" alt="Image" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/quantlet_design.png" alt="Histogram" />
+<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/quantlet_design.png" alt="Image" />
 </div>
 
