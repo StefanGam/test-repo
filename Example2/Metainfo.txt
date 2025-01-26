@@ -5,7 +5,14 @@ Published in : 'Nonparametric and Semiparametric Models'
 
 Description : 'Illustrates four histograms for the stock returns data with different bin-widths .'
 
-Keywords : 'plot, graphical representation, data visualization, histogram, financial, returns, asset'
+Keywords : 
+-plot
+-graphical representation
+-data visualization
+-histogram
+-financial
+-returns
+-asset
 
 See also : 'SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,SPMhistobias2'
 
