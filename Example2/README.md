@@ -5,31 +5,39 @@
 </div>
 
 ```
-Name of QuantLet: SPMhisto_diff_binwidth
+Name of Quantlet: DEDA_Class_2018_StGallen_NeuralNetworks
 
-Published in: Nonparametric and Semiparametric Models
+Published in: Unpublished
 
-Description: Illustrates four histograms for the stock returns data with different bin-widths .
+Description: This Quantlet contains one of two analyses that explore the relationship between weather data and stock returns. TrainNeuralNetwork.py sequentially runs different configurations of neural networks, aiming to predict stock returns from weather data.
 
 Keywords: 
--plot
--graphical representation
--data visualization
--histogram
--financial
--returns
--asset
+- weather
+- stocks
+- returns
+- Neural Networks
+- LSTM
 
-See also: SPMstockreturnhisto, SPMhistogram, SPMashstock, SPMbuffahisto, SPMHistoConstruct,SPMhistobias2
+Author: 
+- Willy Apelt
+- Jan-Gunther Gosselke
+- Simon Sommer
+- Ludovic Tuchschmid
 
-Author: Ștefan Găman
+See also: 
+- DEDA_Class_2018_StGallen_OLSandARMA
 
-Submitted: 27 May 2024
+Submitted: 14th November 2018
 
-Datafiles: stockres.dat
+Datafile: 
+- sample_data/
+
+Example: 
+- NN_loss.png
 
 ```
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png" alt="Image" />
+  <img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Example2/QID-2707-SPMintegralestimator.png" alt="Image" width="600"/>
 </div>
 
