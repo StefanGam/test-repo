@@ -24,6 +24,10 @@ Datafiles: stockres.dat
 ```
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/Screenshot%202026-06-05%20at%2000.34.24.png" alt="Image" width="600"/>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/StefanGam/test-repo/main/Exemple1/coeffU_transparent.png" alt="Image" width="600"/>
 </div>
 
