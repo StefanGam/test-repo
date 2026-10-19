@@ -2,7 +2,8 @@ Name of QuantLet: 'SPMhisto_diff_origin'
 
 Published in: 'Nonparametric and Semiparametric Models'
 
-Description: 'Illustrates four histograms for the stock returns data with different origins.'
+Description: 'Illustrates four histograms for 
+the stock returns data with different origins.'
 
 Keywords: 'plot, graphical representation, data visualization, histogram, financial, returns, asset'
 
